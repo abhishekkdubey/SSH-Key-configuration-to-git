@@ -1,6 +1,6 @@
-# GIT_Tutorial
+# SSH Key Configuration Tutorial
 
-How to generate ssh key and configure ssh key in GIT.
+Thsi tutorial help you to generate ssh key in your Windows/Linux/Mac and configure that ssh key in GIT repository like GitHub/Bitbucket.
 
 ## **Pre-requisites**
 
